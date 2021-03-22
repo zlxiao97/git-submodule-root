@@ -1,0 +1,3 @@
+[submodule "src/shared"]
+	path = src/shared
+	url = git@github.com:2552895864/git-submodule-component.git
